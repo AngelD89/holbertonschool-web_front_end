@@ -1,0 +1,30 @@
+/* Task 2: Base styles */
+
+/* Smooth scrolling
+   ============================= */
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Base
+   ============================= */
+
+body {
+  color: #161616;
+}
+
+/* Links
+   ============================= */
+
+a[href] {
+  color: #161616;
+  text-decoration: none;
+}
+
+/* Visually hidden
+   ============================= */
+
+.visually-hidden {
+  display: none;
+}
